@@ -17,18 +17,18 @@ h3 {
 	text-align: left;
 	margin-top: 0;
 	margin-bottom: 0;
-	left-padding: 10%
+	left-padding: 40px;
 }
 
 h4 {
 	text-align: left;
 	margin-top: 0;
-	left-padding: 10%
+	left-padding: 40px;
 }
 
 div.detail {
 	text-align: left;
-	left-padding: 10%;
+	left-padding: 40px;
 }
 
 .title {
