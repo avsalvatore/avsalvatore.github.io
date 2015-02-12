@@ -6,8 +6,8 @@ body {
 }
 
 #profpic {
+	max-width: 40%;
 	height: 30%;
-	max-width: auto;
 }
 
 h2 {
