@@ -9,8 +9,9 @@ body {
 	
 }
 
-#profpic {
-	height: 5%;
+#profpic img {
+	height: 20%;
+	width: auto;
 }
 
 h2 {
