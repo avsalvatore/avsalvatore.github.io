@@ -5,8 +5,8 @@ body {
 	font-weight: 100;
 }
 
-.profpic {
-	max-height: 30%;
+#profpic {
+	height: 100px;
 }
 
 h2 {
