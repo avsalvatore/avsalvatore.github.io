@@ -35,3 +35,8 @@ div.detail {
 	text-align: left;
 	left-padding: 10%;
 }
+
+.title {
+	font-weight: 100;
+	font-size: large;
+}
