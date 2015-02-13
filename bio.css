@@ -16,24 +16,27 @@ body {
 
 h2 {
 	text-align: left;
+	font-weight: 100;
 }
 
 h3 {
 	text-align: left;
 	margin-top: 0;
 	margin-bottom: 0;
-	margin-left: 20px;
+	margin-left: 30px;
+	font-weight: 100;
 }
 
 h4 {
 	text-align: left;
 	margin-top: 0;
-	margin-left: 20px;
+	margin-left: 30px;
+	font-weight: 100;
 }
 
 div.detail {
 	text-align: left;
-	margin-left: 20px;
+	margin-left: 30px;
 }
 
 #hometitle {
