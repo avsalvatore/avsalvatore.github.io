@@ -18,21 +18,26 @@ h3 {
 	text-align: left;
 	margin-top: 0;
 	margin-bottom: 0;
-	left-padding: 40px;
 }
 
 h4 {
 	text-align: left;
 	margin-top: 0;
-	left-padding: 40px;
 }
 
 div.detail {
 	text-align: left;
-	left-padding: 40px;
 }
 
 .title {
 	font-weight: 100;
 	font-size: 95px;
+}
+
+.city {
+	font-style: italic;
+}
+
+.time {
+	font-style: italic;
 }
