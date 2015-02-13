@@ -33,9 +33,10 @@ div.detail {
 	text-align: left;
 }
 
-.title {
+#hometitle {
 	font-weight: 100;
 	font-size: 95px;
+	margin-bottom: 5px;
 }
 
 .city {
