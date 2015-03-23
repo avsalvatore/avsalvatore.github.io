@@ -1,8 +1,12 @@
 body {
 	font-family: Helvetica, Tahoma, Arial;
 	text-align: center;
-	max-width: 900px;
 	font-weight: 100;
+}
+
+#wrap {
+	width: 900px;
+	margin: 0 auto;
 }
 
 #profpic {
