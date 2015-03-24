@@ -4,7 +4,7 @@
 	<link rel="stylesheet" type="text/css" href="bio.css">
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js">
-		$(document).unload( function() { $(document).fadeOut('slow'); });
+		$("a[rel='hi']").unload( function() { $(document).fadeOut('slow'); });
 	</script>
 	<title>Alex Salvatore</title>
 </head>
@@ -14,8 +14,8 @@
 		<p id="hometitle">Alex Salvatore</p>
 		<img id="profpic" src="profpic.jpg" alt="Oops, looks like she's not camera ready. Sorry!" >
 		<br>
-		<a class-"link" href="bio.html">about me</a> |
-		<a class ="link" href="resume.html">resume</a>
+		<a href="bio.html" rel="hi">about me</a> |
+		<a href="resume.html" rel="hi">resume</a>
 	</div>
 </body>
 </html>
